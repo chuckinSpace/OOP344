@@ -1,0 +1,10 @@
+
+In line number 39 of your output:
+The output should be:
+     C [3]
+But your output is: 
+    ~D [2]
+    ^
+----|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(7e), dec(126)

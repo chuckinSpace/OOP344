@@ -1,0 +1,10 @@
+
+In line number 36 of your output:
+The output should be:
+  y mean    =   3.1212
+But your output is: 
+  y mean    =   2.0000
+                ^
+----------------|
+Professor's character ASCII code: hex(33), dec(51)
+un-matched character ASCII code: hex(32), dec(50)

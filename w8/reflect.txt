@@ -1,0 +1,1 @@
+How to work with smart pointers and the different between raw and smart pointer in relation to memory deallocation
