@@ -1,0 +1,10 @@
+
+In line number 20 of your output:
+The output should be:
+CPU          [123456] Quantity: 5            Description: Central Processing Unit
+But your output is: 
+CPU          [123456] Quantity: 5           Description: Central Processing Unit
+                                            ^
+--------------------------------------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(44), dec(68)

@@ -1,0 +1,14 @@
+Item.cpp:21:1: error: no declaration matches 'Item::Item()'
+ Item::Item(): m_name(""), m_description(""), m_serialNumber(0), m_quantity(0)
+ ^~~~
+In file included from Item.cpp:12:
+Item.h:14:7: note: candidates are: 'Item::Item(Item&&)'
+ class Item {
+       ^~~~
+Item.h:14:7: note:                 'Item::Item(const Item&)'
+Item.h:22:5: note:                 'Item::Item(const string&)'
+     Item(const std::string& record);
+     ^~~~
+Item.h:14:7: note: 'class Item' defined here
+ class Item {
+       ^~~~
