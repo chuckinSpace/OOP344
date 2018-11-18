@@ -1,0 +1,1 @@
+Practice with inheritance, polimorphism, array from stl, vector, and general use of containers

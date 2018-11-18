@@ -1,0 +1,2 @@
+Understood that move is more efficient that the use of a simple copy constructor,
+more knowlegde on handling files, how to extract info and the understanding of a lvalue and a rvalue

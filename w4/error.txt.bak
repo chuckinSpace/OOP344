@@ -1,0 +1,4 @@
+Notifications.cpp: In member function 'void w4::Notifications::operator+=(const w4::Message&)':
+Notifications.cpp:63:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         if(count < maxmessages){
+                    ^

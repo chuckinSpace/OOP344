@@ -1,0 +1,1 @@
+how to have an instance of an object declared in another unit, handling different kind of characters in a file, more on move semantics

@@ -1,0 +1,19 @@
+Script started on Thu Sep 20 21:39:56 2018
+]0;cmoyano-rugiero@mtrx-node01pd:~/cmoyano-rugiero/oop345/w2[?1034h[cmoyano-rugiero@mtrx-node01pd w2]$ exitws w2_gutenberg_shakespeare
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Default Constructor       3300 nanoseconds - a.size = 0
+Custom Constructor    63616926 nanoseconds - b.size = 124456
+Copy Assignment        2448182 nanoseconds - a.size = 124456
+Move Assignment         981692 nanoseconds - a.size = 124456
+Copy Constructor       1848887 nanoseconds - c.size = 124456
+Move Constructor           900 nanoseconds - d.size = 124456
+Destructor             6713949 nanoseconds
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;cmoyano-rugiero@mtrx-node01pd:~/cmoyano-rugiero/oop345/w2[cmoyano-rugiero@mtrx-node01pd w2]$ exit
+exit
+
+Script done on Thu Sep 20 21:40:02 2018

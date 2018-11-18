@@ -1,0 +1,3 @@
+I learned how to use a variable that is defined in another translation unit
+use static, to declare a variable that is going to last the life of the program
+workspaces, and passing argument from the command line to our program.

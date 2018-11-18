@@ -1,0 +1,1 @@
+Learned how to use and implement templates, with more than one parameter and take any kind of data type with only one implementation.
